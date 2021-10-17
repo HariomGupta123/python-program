@@ -1,0 +1,11 @@
+# Q.write a program to input eight number from the user and display all the unique number(once.print)
+n1=int(input("Enter a number1:"))
+n2=int(input("Enter a number1:"))
+n3=int(input("Enter a number1:"))
+n4=int(input("Enter a number1:"))
+n5=int(input("Enter a number1:"))
+n6=int(input("Enter a number1:"))
+n7=int(input("Enter a number1:"))
+n8=int(input("Enter a number1:"))
+num={n1,n2,n3,n4,n5,n6,n7,n8}
+print(num)
