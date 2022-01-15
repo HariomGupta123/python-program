@@ -18,5 +18,6 @@ d = "hari"
 
 #slicing with skip value
 d="harisGood"
-print(d[1:9:3])
-# skip only 2 letters although 3 written
+print(d[1:9:2])
+
+
